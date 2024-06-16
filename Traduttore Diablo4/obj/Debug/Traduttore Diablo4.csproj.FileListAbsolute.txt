@@ -1,0 +1,13 @@
+F:\C#\Traduttore Diablo4\bin\Debug\Traduttore Diablo4.exe.config
+F:\C#\Traduttore Diablo4\bin\Debug\Traduttore Diablo4.exe
+F:\C#\Traduttore Diablo4\bin\Debug\Traduttore Diablo4.pdb
+F:\C#\Traduttore Diablo4\obj\Debug\Traduttore Diablo4.csproj.AssemblyReference.cache
+F:\C#\Traduttore Diablo4\obj\Debug\Traduttore_Diablo4.Form1.resources
+F:\C#\Traduttore Diablo4\obj\Debug\Traduttore_Diablo4.Properties.Resources.resources
+F:\C#\Traduttore Diablo4\obj\Debug\Traduttore Diablo4.csproj.GenerateResource.cache
+F:\C#\Traduttore Diablo4\obj\Debug\Traduttore Diablo4.csproj.CoreCompileInputs.cache
+F:\C#\Traduttore Diablo4\obj\Debug\Traduttore Diablo4.exe
+F:\C#\Traduttore Diablo4\obj\Debug\Traduttore Diablo4.pdb
+F:\C#\Traduttore Diablo4\bin\Debug\Newtonsoft.Json.dll
+F:\C#\Traduttore Diablo4\obj\Debug\Tradutto.ECCA2623.Up2Date
+F:\C#\Traduttore Diablo4\obj\Debug\Traduttore_Diablo4.Form2.resources
